@@ -4,7 +4,7 @@ An Event and Listener API for Java
 
 ## Maven Installation
 
-```maven
+```xml
 
 <repository>
   <id>reposilite-repository</id>
