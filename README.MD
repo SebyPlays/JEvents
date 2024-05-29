@@ -6,16 +6,17 @@ An Event and Listener API for Java
 
 ```xml
 
-<repository>
-  <id>reposilite-repository</id>
-  <name>Seby's Project Repository</name>
-  <url>http://mcsilent.de:8091/{repository}</url>
-</repository>
+<repositories>
+	<repository>
+		  <id>jitpack.io</id>
+		  <url>https://jitpack.io</url>
+	</repository>
+</repositories>
 
 <dependency>
-  <groupId>com.github.sebyplays</groupId>
-  <artifactId>JEvent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+	  <groupId>com.github.queerzard</groupId>
+	  <artifactId>JEvent</artifactId>
+	  <version>Tag</version>
 </dependency>
 ```
 
